@@ -1,8 +1,5 @@
 <h1 align="center">✨ Welcome to <strong>Navsoul’s</strong> World ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=A58AFF&center=true&vCenter=true&width=450&lines=Code.+Create.+Connect.+;Dreamer+%7C+Builder+%7C+Explorer;Welcome+to+my+digital+universe+💫" alt="Typing SVG" />
-</p>
 
 ---
 
