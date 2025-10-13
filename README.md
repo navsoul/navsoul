@@ -9,7 +9,7 @@
 🎓 **Student:** B.Tech in Computer Science (AI & ML)  
 💻 **Passion:** Building meaningful things with clean, elegant code  
 🎶 **Vibe:** Code • Chill • Create • Repeat  
-🧠 **Currently Learning:** Machine Learning, System Design, and Web Dev  
+🧠 **Currently Learning:** Web dev , Machine learning , system design
 🌱 **Goal:** To blend art with logic — turning ideas into beautiful tech  
 
 ---
