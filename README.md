@@ -24,16 +24,6 @@
 
 ---
 
-## 🚀 GitHub Analytics
-
-### 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://github.com/navsoul/navsoul/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -48,14 +38,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=navsoul&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
-
-## 🪶 Quotes I Live By
-
-> *“Make it simple, but significant.”*  
-> *“Code is poetry when written with purpose.”*  
-> *“You don’t just build apps — you build experiences.”*
 
 ---
 
