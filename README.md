@@ -10,9 +10,8 @@
 
 💡 **Name:** Navneet Kumar  
 🎓 **B.Tech CSE (AI & ML)**  
-💻 **Full Stack Developer (MERN) + ML**  
-🧠 **Learning:** Web Dev, ML, System Design  
-🌱 **Goal:** Build elegant, meaningful digital experiences  
+💻 **Frontend Developer  + ML**  
+🧠 **Learning:** Web Dev, ML, System Design   
 
 ---
 
