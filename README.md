@@ -29,15 +29,6 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=navsoul&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navsoul&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
 
 ## 🌈 Connect With Me
 
@@ -45,10 +36,10 @@
   <a href="https://github.com/navsoul" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/navsoul" target="_blank">
+  <a href="www.linkedin.com/in/goswami-navneet-147176290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:navneetkumar@example.com">
+  <a href="mailto:navneetkumaraaa111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
