@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to <strong>Navsoul’s</strong> World </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Navneet+Kumar+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;AI+%26+ML+Student+%F0%9F%A4%96;I+love+building+cool+things+%F0%9F%8C%9F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Navneet+Kumar;Frontend+Developer;AI+%26+ML+Student;I+love+building+cool+things" />
 </p>
 
 ---
