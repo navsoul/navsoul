@@ -5,7 +5,7 @@
 # About Me
  **Name:** Navneet Kumar  
  **B.Tech CSE (AI & ML)**  
- **Frontend Developer  + ML**  
+ **Software Developer  + ML**  
  **Learning:** Web Dev, ML, System Design   
 
 ---
