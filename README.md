@@ -7,7 +7,6 @@
  **B.Tech CSE (AI & ML)**  
  **Software Developer  + ML**  
  **Learning:** Web Dev, ML, System Design   
-
 ---
 
 ### 📊 GitHub Stats
