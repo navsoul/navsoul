@@ -1,7 +1,6 @@
 <h1 align="center"> Welcome to <strong>Navsoul’s</strong> World </h1>
 
 --
-
 # About Me
  **Name:** Navneet Kumar  
  **B.Tech CSE (AI & ML)**  
